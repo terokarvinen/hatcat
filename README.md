@@ -6,6 +6,6 @@ I like Markdown.
 
 This is a command 
 
-  $ ls
-  foo bar xyzz/
-  
+      $ ls
+      foo bar xyzz/
+

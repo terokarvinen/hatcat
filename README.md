@@ -8,4 +8,4 @@ This is a command
 
   $ ls
   foo bar xyzz/
- 
+  
